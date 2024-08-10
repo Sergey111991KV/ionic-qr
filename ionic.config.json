@@ -1,5 +1,7 @@
 {
-  "name": "myApp",
-  "integrations": {},
-  "type": "angular-standalone"
+  "name": "barcode-scanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
 }
